@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Thouseefullah 👋
 
-<!--
-**thouseef65/thouseef65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate about Computer Science and seeking out knowledge in AI & ML and I love building things that make a difference. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, Java, C++, HTML/CSS, SQL
+- **Frameworks**: React, Node.js, Django, Flask
+- **Tools**: Git, Docker, Kubernetes, VSCode, Jupyter
+- **Databases**: MySQL, PostgreSQL, MongoDB
+
+## 🌱 Currently Learning
+
+- Machine Learning & AI
+- Cloud Computing (AWS, Azure)
+- Web3 & Blockchain
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-profile)
+- [Portfolio](https://your-portfolio-link.com)
+
+Thanks for visiting! 🙏
+
